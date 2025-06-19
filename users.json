@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "nombre": "ben",
+    "correo": "victor@yopmail.com",
+    "id": 1
+  }
+]
